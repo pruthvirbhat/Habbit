@@ -40,5 +40,10 @@ In course we have a model which have basic data about the courses. you get acces
 ## Course Update
 ![Image of API Overview](https://github.com/pruthvirbhat/Habbit/blob/main/Images/Course%20Update.png)
 
+### For Testing Authentication
+id-pruthvi pass-pruthvi123
 
+# Technology stack
+* Django-rest-framework
+* Django
 
