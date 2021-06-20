@@ -12,3 +12,6 @@ In course we have a model which have basic data about the courses. you get acces
 * Date of the course
 * Price of the course
 * Category
+
+## Course List
+![Image of Course List](https://pruthvibhat.github.com/Habbit/Images/Course List.png)
